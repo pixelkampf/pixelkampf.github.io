@@ -6,15 +6,27 @@
     <description>Recent content on pixelkampf blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 13:18:20 +0100</lastBuildDate><atom:link href="https://pixelkampf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 14:36:34 +0100</lastBuildDate><atom:link href="https://pixelkampf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello!</title>
       <link>https://pixelkampf.github.io/posts/hello/</link>
-      <pubDate>Wed, 01 Mar 2023 13:18:20 +0100</pubDate>
+      <pubDate>Wed, 01 Mar 2023 14:36:34 +0100</pubDate>
       
       <guid>https://pixelkampf.github.io/posts/hello/</guid>
-      <description>Recently, I had the idea to write some articles related to my experience as software developer and architect in a large software company.
-Also, I might post some private stuff if I think it might be interesting to share. 😉</description>
+      <description>Recently, I had the idea to write some articles and share my experiences as software developer and architect in a large software company.
+So, stay tuned for updates&amp;hellip; 😉</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://pixelkampf.github.io/about/</link>
+      <pubDate>Wed, 01 Mar 2023 13:18:20 +0100</pubDate>
+      
+      <guid>https://pixelkampf.github.io/about/</guid>
+      <description>Hi,
+my name is Wilko and I&amp;rsquo;m a a professional software developer and architect with more than 10 years of experience in software development.
+In this blog I want to share my view on certain topics and experiences in software development or related topics.
+This blog is powered by Hugo and hosted on github-pages.</description>
     </item>
     
   </channel>
